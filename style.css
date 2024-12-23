@@ -1,0 +1,116 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* border: 2px solid burlywood; */
+    width: 35%;
+    margin: auto;
+}
+.next img{
+    background-color: #FFF0F0;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+.btn-one{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 16%;
+    height: 40px;
+}
+
+.main-one{
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:35%;
+    height: 350px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+.start-2{
+    /* border: 2px solid blueviolet; */
+    height: 200px;
+    padding-left: 25px;
+}
+
+.btn-two{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 36%;
+    height: 40px;
+}
+
+.main-two{
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:35%;
+    height: 350px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+.btn-thr{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 36%;
+    height: 40px;
+}
+
+.main-three{
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:35%;
+    height: 350px;
+    margin: auto;
+    margin-top: 25px;
+}
+
+
+.btn-4{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 36%;
+    height: 40px;
+}
+
+.Last{
+    /* border: 2px solid blueviolet; */
+    width:35%;
+    height: 100px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+hr{
+    width: 50%;
+}
+.Last-part{
+    /* border: 2px solid blueviolet; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 320px;
+    width: 50%;
+    margin: auto;
+}
+
+@media(>=576px){
+
+    
+}
+
+
